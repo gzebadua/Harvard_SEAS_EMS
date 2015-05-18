@@ -1,0 +1,1 @@
+<P>You have successfully logged out of EMS. <A href="http://events.seas.harvard.edu/VirtualEMS">Click here to go back&nbsp;to EMS homepage</A> or <A href="http://intranet.seas.harvard.edu/events-office">here to go to the SEAS Events Office website</A>.</P>
