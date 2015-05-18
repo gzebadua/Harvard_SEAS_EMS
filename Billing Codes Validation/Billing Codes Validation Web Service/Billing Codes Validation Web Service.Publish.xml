@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Websites\EMS\BillingCodesValidationWebService" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Service.asmx" publishTime="03/04/2013 11:07:05" />
+    <file relUrl="bin/Billing Codes Validation Web Service.pdb" publishTime="03/06/2013 13:41:53" />
+    <file relUrl="bin/Billing Codes Validation Web Service.xml" publishTime="03/06/2013 13:41:53" />
+    <file relUrl="Web.config" publishTime="03/06/2013 13:37:28" />
+    <file relUrl="bin/Billing Codes Validation Web Service.dll" publishTime="03/06/2013 13:41:53" />
+  </publishProfile>
+</publishData>
